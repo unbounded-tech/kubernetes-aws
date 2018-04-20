@@ -1,5 +1,5 @@
 {
   "projects": {
-    "keys": "git@github.com:unbounded-tech/kubernetes-aws-keys.git"
+    "creds": "git@github.com:unbounded-tech/kubernetes-aws-keys.git"
   }
 }

@@ -1,5 +1,4 @@
-mkdir -p keys
-mkdir -p cluster
+mkdir -p creds
 
 aws iam create-group \
   --group-name kops
