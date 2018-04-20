@@ -1,3 +1,7 @@
+kops delete cluster \
+  --name $NAME \
+  --yes
+
 aws iam remove-user-from-group \
   --user-name kops \
   --group-name kops
