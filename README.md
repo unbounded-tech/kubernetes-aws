@@ -53,8 +53,14 @@ sh cluster-setup.sh
 
 ## Delete
 
-To delete your cluster and all AWS resources run
+To delete your cluster:
 
 ```
-sh delete.sh
+sh delete-kops.sh
+```
+
+To delete kops AWS resources:
+
+```
+sh delete-aws.sh
 ```
